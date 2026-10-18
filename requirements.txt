@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers
+diffusers
+accelerate
+peft
+datasets
+safetensors
+huggingface_hub
+sentencepiece
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
